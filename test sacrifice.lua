@@ -1,6 +1,6 @@
     local HttpService = game:GetService("HttpService")
     local plrName = game.Players.LocalPlayer.Name
-    local webhook_url = "https://discord.com/api/webhooks/937246717642948658/04za61v8LIeAlD-VQw3wc_GlI83ufqhTiz50bl70BM6h5Bgzgw8fRc5dTcSG2qedQ4az"
+    local webhook_url = "https://discord.com/api/webhooks/937732079582584862/xP5o7R_ELLxjElP1dcokXU0K0vcETNmlFXVhEitvzWQLIFx4pncdlkL-_JuZLR600LLA"
     function sendMessagelog(msg)
         local data =
             {
