@@ -1,0 +1,137 @@
+{
+    "Coal": {
+        "depth": 50
+    },
+    "Copper": {
+        "depth": 1950
+    },
+    "Iron": {
+        "depth": 950
+    },
+    "Silver": {
+        "depth": 70
+    },
+    "Ruby": {
+        "depth": 115
+    },
+    "Sapphire": {
+        "depth": 350
+    },
+    "Emerald": {
+        "depth": 450
+    },
+    "Sulfur": {
+        "depth": 75
+    },
+    "Gold": {
+        "depth": 55
+    },
+    "Diamond": {
+        "depth": 450
+    },
+    "Opal": {
+        "depth": 3
+    },
+    "Boomite": {
+        "depth": 950
+    },
+    "Dragonstone": {
+        "depth": 2999
+    },
+    "Sinistyte M": {
+        "depth": 500
+    },
+    "Sinistyte L": {
+        "depth": 1000
+    },
+    "Sinistyte S": {
+        "depth": 3000
+    },
+    "Sinistyte E": {
+        "depth": 4050
+    },
+    "Nightmarium": {
+        "depth": 1000
+    },
+    "Twitchite": {
+        "depth": 50
+    },
+    "Uranium": {
+        "depth": 850
+    },
+    "Moonstone": {
+        "depth": 1
+    },
+    "Frostarium": {
+        "depth": 1
+    },
+    "Baryte": {
+        "depth": 1050
+    },
+    "Topaz": {
+        "depth": 70
+    },
+    "Unobtainium": {
+        "depth": 100
+    },
+    "Plutonium": {
+        "depth": 750
+    },
+    "Illuminunium": {
+        "depth": 666
+    },
+    "Amethyst": {
+        "depth": 50
+    },
+    "Dragonglass": {
+        "depth": 2050
+    },
+    "Platinum": {
+        "depth": 450
+    },
+    "Rainbonite": {
+        "depth": 1050
+    },
+    "Serendibite": {
+        "depth": 997
+    },
+    "Azure": {
+        "depth": 1450
+    },
+    "Mithril": {
+        "depth": 1850
+    },
+    "Painite": {
+        "depth": 2050
+    },
+    "Newtonium": {
+        "depth": 3050
+    },
+    "Antimatter": {
+        "depth": 4550
+    },
+    "Constellatium": {
+        "depth": 4550
+    },
+    "Darkmatter": {
+        "depth": 4350
+    },
+    "Firecrystal": {
+        "depth": 2550
+    },
+    "Frightstone": {
+        "depth": 4050
+    },
+    "Promethium": {
+        "depth": 3000
+    },
+    "Stellarite": {
+        "depth": 4550
+    },
+    "Symmetrium": {
+        "depth": 2550
+    },
+    "Ambrosia": {
+        "depth": 50
+    }
+}
