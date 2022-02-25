@@ -1,4 +1,7 @@
 {
+    "Stone": {
+        "depth": 50
+    },
     "Coal": {
         "depth": 50
     },
@@ -133,5 +136,8 @@
     },
     "Ambrosia": {
         "depth": 50
+    },
+    "Kappa": {
+        "pos": 1337, 420, 0
     }
 }
