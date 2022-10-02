@@ -137,6 +137,12 @@
     "Ambrosia": {
         "depth": 50
     },
+    "Solarium": {
+        "depth": 3800
+    },
+    "Yunium": {
+        "depth": 3050
+    },
     "Kappa": {
         "pos": "1337, 420, 0"
     },
